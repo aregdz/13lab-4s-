@@ -1,0 +1,11 @@
+name: lab21
+channels:
+  - defaults
+dependencies:
+ - python=3.12.1 
+ - pip
+ - isort
+ - black
+ - pre-commit
+ - click
+
